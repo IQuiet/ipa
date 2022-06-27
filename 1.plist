@@ -17,17 +17,17 @@
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
-                    <false/>
+                    <true/>
                     <key>url</key>
-                    <string>下载时大图（非必填）</string>
+                    <string>https://github.com/IQuiet/ipa/blob/main/icon.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>needs-shine</key>
-                    <false/>
+                    <true/>
                     <key>url</key>
-                    <string>下载时小图（非必填）</string>
+                    <string>https://github.com/IQuiet/ipa/blob/main/icon.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -35,11 +35,11 @@
                 <key>bundle-identifier</key>
                 <string>org.tianxing.cb</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>副标题（非必填）</string>
+                <string>install app</string>
                 <key>title</key>
                 <string>乘风破浪</string>
             </dict>
